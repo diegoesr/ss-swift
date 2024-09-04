@@ -6,3 +6,4 @@ import UIKit
 // Enums create our own types to specify a range of acceptable values.
 // Swift uses type inference to figure what data we´re storing.
 
+
