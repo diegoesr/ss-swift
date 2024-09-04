@@ -1,6 +1,6 @@
 import UIKit
 
-let playerName: String = "Roy"
+let playerName: String = "Row"
 let luckyNumber: Int = 13
 let pi: Double = 3.1416
 var isAuthenticated: Bool = true
