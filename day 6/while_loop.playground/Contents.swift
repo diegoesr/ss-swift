@@ -24,4 +24,4 @@ while roll != 20 {
 }
 
 // if we're here it means the loop ended – we got a 20!
-print("Critical hit!")
+print("Critical hit!!!!")
